@@ -7537,7 +7537,7 @@ img{
 }
 
 .column {
-  flex: 25%;
+  flex: 20%; /* 5 columns in a row */
   padding: 5px;
 }
 
